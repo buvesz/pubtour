@@ -1,4 +1,4 @@
-###Functions:
+### Functions:
     - **Desing a pub tour:**
     - **Rate and give feedback to the pubs:**
     - **Pub sport toplist:**
